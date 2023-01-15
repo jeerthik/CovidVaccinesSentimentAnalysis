@@ -15,3 +15,6 @@ To train the neural network, run the ```sentiment_analysis_nn.ipynb``` notebook.
 
 # Demo
 To run the demo, we have provided you with a pretrained model of our sentiment analysis in ```model/sentiments_model.hdf5```. Simply run ```python demo.py``` after having installed the necessary prerequisites (keras, twarc, nltk, and PySimpleGUI).
+
+# Report
+The background information, methodology, results, and contributions of the project are outlined within the Report.pdf.
