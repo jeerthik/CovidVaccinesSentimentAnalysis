@@ -1,5 +1,6 @@
 # Description
 For CS 4260: Artificial Intelligence at Vanderbilt University.
+
 *Project Members: Tabitha S.Y. Lee and Jeerthi Kannan*
 
 This GitHub repository contains code on performing sentiment analysis on tweets concerning the COVID-19 Vaccine. The original dataset can be accessed as a CSV of tweet IDs if you have an IEEE Member account [here](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset) containing a large set of tweets related to the pandemic overall, which we filter out for vaccine related keywords. Using this dataset, we hydrate the tweets using the Twitter API.
